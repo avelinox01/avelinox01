@@ -1,6 +1,6 @@
 
+![SEM FUINDO LOGOMARCA SYSCTRL](https://github.com/avelinox01/avelinox01/assets/101229630/2cca447c-a46a-4a90-b683-b5d1c3ae0d2d)
 
-![LOGOMARCA SYSCTRL](https://github.com/avelinox01/avelinox01/assets/101229630/b054a282-2eaa-487f-977e-e5a83574865c)
 ### Olá 👋
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
