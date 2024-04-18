@@ -24,7 +24,7 @@
     
 </div>
 
-  
+<br/>  
 - 🖥️ Desvendando os Segredos da Inteligência Artificial: Aprendizagem Automática e Aprendizagem Profunda
 - 📷 Visão Computacional: Desvendando os Mistérios do Mundo Visual para Computadores! 🤖👀
 - 🌐 Desenvolvimento Web: Dando vida às suas ideias na internet!🌍
