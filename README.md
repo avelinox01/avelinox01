@@ -1,7 +1,7 @@
+
+
+![LOGOMARCA SYSCTRL](https://github.com/avelinox01/avelinox01/assets/101229630/b054a282-2eaa-487f-977e-e5a83574865c)
 ### Olá 👋
-
-![Header](./github-header-image.png)
-
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=378B01&random=false&width=435&lines=César+Avelino+de+Sousa;Desenvolvedor FULLSTACK" alt="Typing SVG" /></a>
