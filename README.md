@@ -33,7 +33,8 @@ Se quiser conversar sobre tecnologia, não hesite em contactar-me! Vamos program
 
 <a href="https://www.linkedin.com/in/cesar-avelino-de-sousa-1097a342/"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/linkedin.svg" alt="Linkedin Logo" width="30" height="30" /></a> &nbsp; &nbsp; 
 <a href="mailto:marcoparola96@gmail.com"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/gmail.svg" alt="Gmail Logo" width="30" height="30" /></a> &nbsp; &nbsp;
-<a href="https://telegram.me/avelinox01"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/telegram2.svg" alt="Telegram Logo" width="30" height="30" /></a>
+<a href="https://telegram.me/avelinox01"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/f926a9cacef437021842aa53029d1b73fb03de15/svg/telegram2.svg" alt="Telegram Logo" width="30" height="30" /></a>&nbsp; &nbsp;
+<a href="https://avelinox01.github.io/vitae/"> <img src="https://mccarter.gallerycdn.vsassets.io/extensions/mccarter/start-git-bash/1.2.1/1499505567572/Microsoft.VisualStudio.Services.Icons.Default" width="35" /></a> 
 
 
 
